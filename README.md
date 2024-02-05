@@ -1,1 +1,2 @@
-# franciscomarcal-curso-alura-arquitetura-css-assets
+# arquitetura-css
+curso de arquitetura da Alura. 
